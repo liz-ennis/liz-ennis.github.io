@@ -1,15 +1,10 @@
----
----
-
-@import "minima";
-
 /* -------------------------------------
-   Banner header
+   Banner
 ------------------------------------- */
 
 .site-banner {
   position: relative;
-  background-image: url("/assets/liz-banner.jpg");
+  background-image: url("/assets/images/banner.jpg");
   background-size: cover;
   background-position: right center;
   height: 160px;
@@ -35,7 +30,6 @@
   margin: 0;
   font-size: 2rem;
   font-weight: 500;
-  color: #f8f8f8;
   letter-spacing: 0.02em;
 }
 
@@ -53,37 +47,28 @@
 }
 
 /* -------------------------------------
-   Header layout
+   Navigation bar
 ------------------------------------- */
 
-.site-header {
-  border-bottom: none;
-  margin-bottom: 1.25rem;
+.site-nav-bar {
+  background: #fff;
+  border-bottom: 1px solid #eee;
 }
 
-.site-header-inner {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 1rem;
-}
-
-.site-title,
-.site-title-right {
-  font-size: 1.8rem;
-  font-weight: 500;
-  line-height: 1.2;
-  margin: 0;
-  color: inherit;
+.site-nav-link {
+  display: inline-block;
+  padding: 0.6rem 0;
+  font-size: 0.95rem;
+  color: #333;
   text-decoration: none;
 }
 
-.site-title-right {
-  white-space: nowrap;
+.site-nav-link:hover {
+  opacity: 0.8;
 }
 
 /* -------------------------------------
-   Remove footer completely
+   Remove footer
 ------------------------------------- */
 
 .site-footer {
