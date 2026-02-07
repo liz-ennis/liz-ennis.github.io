@@ -12,4 +12,6 @@ It will get combined into one line
 
 But if you put two spaces at the end  
 Of each line then  
-That line will appear on a new line
+That line will appear on a new line  
+
+And of course you can update it.
