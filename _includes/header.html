@@ -3,7 +3,9 @@
 
   <div class="wrapper site-banner-content">
     <h1 class="site-banner-title">
-      {{ site.title }} – {{ site.description }}
+      <a href="{{ "/" | relative_url }}" class="site-banner-link">
+        {{ site.title }} – {{ site.description }}
+      </a>
     </h1>
   </div>
 </header>
