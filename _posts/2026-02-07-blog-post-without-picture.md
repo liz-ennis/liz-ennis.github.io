@@ -3,9 +3,6 @@ title: "Blog Post without Picture"
 date: 2026-02-07
 ---
 
-# Blog Post without Picture
-*2026-02-07*
-
 ![Blog Post without Picture](/images/2026-02-07-blog-post-without-picture.jpg)
 
 When you write stuff
