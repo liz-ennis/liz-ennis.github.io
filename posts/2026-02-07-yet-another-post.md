@@ -5,9 +5,11 @@ date: 2026-02-07
 
 ![Yet another post](/images/2026-02-07-yet-another-post.jpg)
 
-I'm having so much fun doing this!
+Actually, I wanted to add another line.
 
-Here's another post.
+I’m having so much fun doing this!
+
+Here’s another post.
 
 It has four paragraphs.
 
