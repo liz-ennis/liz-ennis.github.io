@@ -5,6 +5,6 @@ date: 2026-02-07
 
 ![Hello World](/images/2026-02-07-hello-world.jpg)
 
-New blog post.
+Hi.
 
-Two paragraphs.
+Welcome to my new page.
