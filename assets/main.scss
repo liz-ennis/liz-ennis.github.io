@@ -39,6 +39,16 @@
   letter-spacing: 0.02em;
 }
 
+.site-banner-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-banner-link:hover,
+.site-banner-link:focus {
+  text-decoration: none;
+}
+
 /* -------------------------------------
    Header layout
 ------------------------------------- */
