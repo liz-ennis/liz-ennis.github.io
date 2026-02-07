@@ -20,4 +20,4 @@ This is a place for writing, reflections, and small moments worth keeping.
 {% endfor %}
 </ul>
 
-(V1.01)
+(V1.02)
