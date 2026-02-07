@@ -2,3 +2,5 @@ title: Liz
 description: Writing and Reflections
 theme: minima
 header_pages: []
+minima:
+  skin: classic
