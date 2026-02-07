@@ -39,14 +39,17 @@
   letter-spacing: 0.02em;
 }
 
-.site-banner-link {
-  color: inherit;
+.site-banner-title .site-banner-link,
+.site-banner-title .site-banner-link:visited,
+.site-banner-title .site-banner-link:hover,
+.site-banner-title .site-banner-link:focus,
+.site-banner-title .site-banner-link:active {
+  color: #f8f8f8;
   text-decoration: none;
 }
 
-.site-banner-link:hover,
-.site-banner-link:focus {
-  text-decoration: none;
+.site-banner-title .site-banner-link:hover {
+  opacity: 0.9;
 }
 
 /* -------------------------------------
