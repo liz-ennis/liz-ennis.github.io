@@ -19,5 +19,3 @@ This is a place for writing, reflections, and small moments worth keeping.
   </li>
 {% endfor %}
 </ul>
-
-(V1.02)
