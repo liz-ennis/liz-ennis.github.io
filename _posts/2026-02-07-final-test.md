@@ -8,3 +8,5 @@ date: 2026-02-07
 Hopefully this will be the last test for today.  
 
 We'll add an image just to be sure.
+
+And we'll update it.
