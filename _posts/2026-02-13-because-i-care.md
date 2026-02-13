@@ -3,6 +3,8 @@ title: "Because I care."
 date: 2026-02-13
 ---
 
+![Because I care.](/images/2026-02-13-because-i-care.jpg)
+
 I wheel my mother through the doorway into the Geriatrician's waiting room. I look around. Elderly people with vacant faces sit beside stressed middle -aged carers - all women, daughters I assume.
 
 My mother has Parkinson's Disease. After her diagnosis she moved from her home 7 hours away to live 10 minutes from us. That was 13 years ago.
