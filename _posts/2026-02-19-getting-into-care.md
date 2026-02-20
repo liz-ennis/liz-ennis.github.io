@@ -17,27 +17,27 @@ Only one place earned a reluctant tick of approval. At the end of our tours she 
 
 Then she went on to say that family care for family - that she had done this for her mother- my beloved Nanna.
 
-Nanna was only 64 when she died. (I still miss her) She spent the final 2 years of her life in a rural hospital not far from where we lived.
+Nanna was only 64 when she died. (I still miss her). She spent the final 2 years of her life in a rural hospital not far from where we lived.
 
 My mother ( aged in her late 30's/ early 40's) visited regularly but was not responsible for Nanna's daily needs, medication, appointments and care management - the things I did for my mother.
 
-The package providers, hospital Doctors and our GP strongly urged my mother to move into full-time care. Our provider forced mum to sign a waiver stating that she was risking death by living ' independently'This happened at least 18 months before she actually entered residential aged care.
+The package providers, hospital Doctors and our GP strongly urged my mother to move into full-time care. Our provider forced mum to sign a waiver stating that she was risking death by living ' independently'. This happened at least 18 months before she actually entered residential aged care.
 
 During that time neighbours were very involved because they were in close proximity. Our home was a 10 minute drive from her ' little house'. I swear my car could've driven itself to her place the trip was repeated so often!
 
-After a lengthy hospital stay following a fall and hallucinations,mum was once again discharged to her home - against hospital advice.
+After a lengthy hospital stay following a fall and hallucinations, Mum was once again discharged to her home - against hospital advice.
 
 I employed extra carers to supplement her level 4 home package. Between these 2 care streams, the long suffering neighbours and my support, we muddled through. Mum was happy but complained regularly about the carers.
 
 Then along came cyclone Alfred. The major provider cancelled all services for several days, I told the other carers to stay with their families and I moved in with mum. My husband was not happy with this arrangement, but admitted after it was all over my decision to stay with her was absolutely right.
 
-I was with my mother for 4 nights and 5 days and it was eye- opening to say the least. What I thought was intermittent confusion with accompanying hallucinations was actually her entire reality.
+I was with my mother for 4 nights and 5 days and it was eye-opening to say the least. What I thought was intermittent confusion with accompanying hallucinations was actually her entire reality.
 
-She spoke to 'people' in her lounge room. Whenever I made us a meal, she insisted I feed Michael the Archangel ( the black handles of her wheely walker) Then I'd have to report on how much he had eaten.
+She spoke to 'people' in her lounge room. Whenever I made us a meal, she insisted I feed Michael the Archangel (the black handles of her wheely walker). Then I'd have to report on how much he had eaten.
 
 One night I played her keyboard and guitar and sang lots of old church songs. Apparently the old people in the corner of her loungroom applauded enthusiastically at my impromptu concert!
 
-During this time I also came to realize my mother was completely incontinent.Every morning her bed would be saturated even though incontinence products were used. I had to strip her bed and wash everything. This was fine until we lost power and then things became really challenging.
+During this time I also came to realize my mother was completely incontinent. Every morning her bed would be saturated even though incontinence products were used. I had to strip her bed and wash everything. This was fine until we lost power and then things became really challenging.
 
 Mum would constantly take risks - try to walk without her walker in an attempt to rescue her 'visitors', one of whom was a little girl.
 
@@ -55,11 +55,11 @@ Mum's name was on their wait list and from time to time I'd call to enquire abou
 
 To add to the miracle, the admission was scheduled to coincide with my sister's visit. It had been 12 years since we'd last seen her.
 
-My gratitude to god,the universe and everything was massive - still is!
+My gratitude to god, the universe and everything was massive - still is!
 
 The coordinator helped me break the news and generously told my mother it was her idea.
 
-I knew my mother would react and her anger and defensiveness was next level. My heart rate increased significantly,but I managed to speak my truth - I couldn't manage the situation any longer.
+I knew my mother would react and her anger and defensiveness was next level. My heart rate increased significantly, but I managed to speak my truth - I couldn't manage the situation any longer.
 
 It's been 10 months since mum entered full time care. Her mobility is extremely poor now. Taking her out is a major logistical exercise. Her hallucinations and confabulations continue.
 
@@ -67,7 +67,7 @@ The Geriatrician has prescribed some meds to help deal with her confusion, but I
 
 This kind of dementia is challenging. She knows who I am and where she is, but it's getting harder to connect because she lives in a completely different reality.
 
-I empathize and redirect when she tells me bizarre stories that are obviously very real ( and often scary) to her.
+I empathize and redirect when she tells me bizarre stories that are obviously very real (and often scary) to her.
 
 Every time I visit she says ' I could've stayed in my little house'.
 
