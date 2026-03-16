@@ -11,7 +11,7 @@ The photo I've chosen is one of him at work. He worked a lot. Work seemed to be 
 
 I mentioned in a previous post that he was emotionally repressed. As an adult I've come to understand some of the reasons for his inability to express love.
 
-My paternal grandmother was extremely negative and unkind. When we visited- which thankfully wasn't often as they lived a several hours away- she would tell me I was fat. (Way to go Grandma!)
+My paternal grandmother was extremely negative and unkind. When we visited- which thankfully wasn't often as they lived several hours away- she would tell me I was fat. (Way to go Grandma!)
 
 One of her sayings has become a bit of a family joke. As I kid I once presented her with a drawing I'd created. Her response was to give the artwork back to me as she said: 'Grandma's not interested'. So we jokingly repeat that phrase to this day.
 
@@ -23,7 +23,7 @@ How to damage your child in two easy steps!
 
 Birthdays were never celebrated in my father's childhood. Perhaps this is why he never remembered my birthday or my sister's date of birth.
 
-I'm assuming that corporal punishment was part of dad's upbringing because he used a leather strap on my sister and me. Church teaching about 'sparing the rod and spoiling the child' obviously contributed to this practice as well.
+I'm assuming that corporal punishment was part of Dad's upbringing because he used a leather strap on my sister and me. Church teaching about 'sparing the rod and spoiling the child' obviously contributed to this practice as well.
 
 I was 12 when I received my last belting with the leather strap. My sister and I were fighting and as usual dad snapped. He chased me around the grape vine and hit the back of my legs repeatedly with the strap.
 
