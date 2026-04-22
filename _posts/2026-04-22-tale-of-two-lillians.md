@@ -1,12 +1,9 @@
 ---
-title: "Take of two Lillians"
+title: "Tale of two Lillians"
 date: 2026-04-22
 ---
-
+![Tale of two Lillians](/images/2026-04-02-tale-of-two-lillians.jpg)
 My Aunty Lily was my Nanna's oldest sister. So technically she was my Great Aunt.
-
-
-
 
 When I think of her the phrase  'lady like' springs to mind.In fact she had a bit of a Queen Mother vibe about her.
 
@@ -73,4 +70,3 @@ Our Lilly is strong, resilient and kind just like her namesake. She has dealt wi
 It would be wonderful to think that somehow Aunty Lily knows that her name lives on in a young woman who possesses many of her attributes.
 
 I'm so grateful to share genes with these inspirational women, two remarkable Lillians.
-.
