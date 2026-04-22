@@ -5,7 +5,7 @@ date: 2026-04-22
 ![Tale of two Lillians](/images/2026-04-02-tale-of-two-lillians.jpg)
 My Aunty Lily was my Nanna's oldest sister. So technically she was my Great Aunt.
 
-When I think of her the phrase  'lady like' springs to mind.In fact she had a bit of a Queen Mother vibe about her.
+When I think of her, the phrase 'lady like' springs to mind. In fact she had a bit of a Queen Mother vibe about her.
 
 Aunty Lily loved things to be done correctly - the table was always set for meals with linen napkins and fine china crockery.
 
@@ -27,7 +27,7 @@ Despite her lack of sight, Lily could navigate her kitchen and general housework
 
 Ironing was a serious business and literally everything from tea towels to pillow cases were thoroughly pressed!
 
-I vividly remember watching my Aunt iron, fascinated by the pleats she inadvertently pressed into the fabric. It gave me the 'tingles' which we now refer to as ASMR. Perhaps she could've had her own ASMR Youtube channel if she was still with us!
+I vividly remember watching my Aunt iron, fascinated by the pleats she inadvertently pressed into the fabric. It gave me the 'tingles' which we now refer to as ASMR. Perhaps she could've had her own ASMR YouTube channel if she was still with us!
 
 I loved hearing stories of when she was a girl - especially stories that included things about my Nanna.
 
@@ -55,9 +55,9 @@ Aunty Lily, settled calmly in the front seat, seemed oblivious to the pace and e
 
 Speaking of nausea, there was one breakfast that Aunty Lily served frequently that made me queasy. Most of her cooking was delicious - her Christmas plum pudding springs to mind. This is remarkable considering her disability.
 
-But back to breakfast. I can still see the pale, gelatinous smooth strips covered in white parsley sauce, thankfully served with toast. This deliciosy is known as tripe, the edible lining from the stomach of cows, pigs and sheep.
+But back to breakfast. I can still see the pale, gelatinous smooth strips covered in white parsley sauce, thankfully served with toast. This delicacy is known as tripe, the edible lining from the stomach of cows, pigs and sheep.
 
-When I tried to eat this substance an overwhelming feeling of wanting to gag would hit me.
+When I tried to eat this substance, an overwhelming feeling of wanting to gag would hit me.
 
 This was one time I was grateful Aunty Lily couldn't see my face. I'd manage to eat a few pieces of the strange chewy stuff by mixing it with huge bites of toast.
 
